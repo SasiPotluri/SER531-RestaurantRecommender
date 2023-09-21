@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.15",
+    "axios": "^1.2.0",
+    "bootstrap": "^5.2.3",
+    "react-bootstrap": "^2.6.0",
+    "react-router-dom": "^6.4.3",
+    "styled-components": "^5.3.6"
+  }
+}
